@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "598722829847",
+    "firebase_url": "https://segp-82b12.firebaseio.com",
+    "project_id": "segp-82b12",
+    "storage_bucket": "segp-82b12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598722829847:android:40ba82c8e196b57b",
+        "android_client_info": {
+          "package_name": "com.example.hami.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598722829847-2hb29k4pebmhbgap26fo5764msm4r810.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hami.myapplication",
+            "certificate_hash": "8589a2f4b1b3d49d9b88fab08a3d507ca845a024"
+          }
+        },
+        {
+          "client_id": "598722829847-em19pool3tljh8b6fol50emv245amrg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHPwgAL43xngIFfefeSduTYXkeLYF80K4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598722829847-em19pool3tljh8b6fol50emv245amrg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
